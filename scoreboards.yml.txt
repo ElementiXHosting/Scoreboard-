@@ -1,4 +1,4 @@
-## Scoreboards (https://github.com/r4g3baby/SimpleScore/blob/main/src/main/resources/scoreboards.yml)
+## Scoreboards 
 # This is where you create your scoreboards to be displayed.
 
 # You can create a scoreboard by creating a node with the scoreboard name and then specifying a default "updateTime",
